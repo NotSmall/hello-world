@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-17T14:19:08.809Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="0TvAV4lAEqLY7idfU4J9" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-17T14:23:38.832Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="HBOsVvQCg1etbu8XwIF0" version="16.5.6" type="github">
   <diagram id="RYxesC6GKuMK5YFyHAlI" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -159,6 +159,12 @@
         </mxCell>
         <mxCell id="wqJMQl04LIo_0otmr0Y4-65" value="Error Injection" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="80" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wqJMQl04LIo_0otmr0Y4-66" value="每個module輸入跟輸出選項都需要有一個coverpoint" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wqJMQl04LIo_0otmr0Y4-67" value="把有因果關係的cross起來，再處理明顯會太多cross的部分" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="555" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
